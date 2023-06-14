@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+  
+    
+}
+
+.btnav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Navbt {
+    width: 217.83px;
+    height: 58.82px;
+    left: 0px;
+    top: 0px;
+    background: #D97122;
+    border-radius: 50px;
+    color: #FFFFFF;
+}
+
+.navicons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.private{
+    width: 45px;
+    height:45px;       
+}
+
+.scroll{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.bg1{
+    padding-left: 25px;
+    padding-right: 25px;
+    box-sizing: border-box;
+    background-color:#FFEFE3 ;  
+
+}
+
+.bg{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 120px;        
+}
+
+.midimage{
+    width: 100%;
+}
+
